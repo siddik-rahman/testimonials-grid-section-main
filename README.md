@@ -4,5 +4,5 @@
 - CSS Grid  
 
 ## links  
-- [Repository](https://github.com/siddik-rahma/testimonials-grid-section-main)  
+- [Repository](https://github.com/siddik-rahman/testimonials-grid-section-main)  
 - [Live Site](https://siddik-rahman.github.io/testimonials-grid-section-main/)
